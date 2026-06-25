@@ -12,7 +12,7 @@ Linux
 ifconfig installed
 Root privileges (sudo)
 ## Installation
-git clone https://github.com/yourusername/mac-changer.git
+git clone https://github.com/meedblg/mac-address-changer.git
 ## Usage
 sudo python3 mac-changer.py --i eth0 --m 00:11:22:33:44:55
 
